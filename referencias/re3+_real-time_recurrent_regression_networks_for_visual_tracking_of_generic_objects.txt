@@ -1,0 +1,87 @@
+1. M. Abadi et al. "Tensorflow: Large-scale machine learning on heterogeneous distributed systems". 
+
+2. K. O. Arras O. M. Mozos W. Burgard "Using boosted features for the detection of people in 2D range data" Proc. IEEE Int. Conf. Robot. Autom. pp. 3402-3407 2007. 
+
+3. S. Bengio O. Vinyals N. Jaitly N. Shazeer "Scheduled sampling for sequence prediction with recurrent neural networks" Proc. Adv. Neural Inf. Process. Syst. pp. 1171-1179 2015. 
+
+4. L. Bertinetto J. Valmadre J. F. Henriques A. Vedaldi P. H. Torr "Fully-convolutional siamese networks for object tracking" Proc. Eur. Conf. Comput. Vision pp. 850-865 2016. 
+
+5. M. Danelljan G. Häger F. Khan M. Felsberg "Accurate scale estimation for robust visual tracking" Proc. Brit. Mach. Vision Conf. pp. 1-11 2014. 
+
+6. M. Danelljan G. Häger F. S. Khan M. Felsberg "Discriminative scale space tracking" IEEE Trans. Pattern Anal. Mach. Intell. vol. 39 no. 8 pp. 1561-1575 Aug. 2017. 
+
+7. M. Danelljan G. Hager F. Shahbaz Khan M. Felsberg "Convolutional features for correlation filter based visual tracking" Proc. IEEE Int. Conf. Comput. Vision Workshops pp. 58-66 2015. 
+
+8. M. Danelljan A. Robinson F. S. Khan M. Felsberg "Beyond correlation filters: Learning continuous convolution operators for visual tracking" Proc. Eur. Conf. Comput. Vision pp. 472-488 2016. 
+
+9. S. Ebrahimi Kahou V. Michalski R. Memisevic C. Pal P. Vincent "RATM: Recurrent attentive tracking model" Proc. IEEE Conf. Comput. Vision Pattern Recog. Workshops pp. 10-19 2017. 
+
+10. M. Edoardo Maresca A. Petrosino "The Matrioska tracking algorithm on LTDT2014 dataset" Proc. IEEE Conf. Comput. Vision Pattern Recog. Workshops pp. 706-711 2014. 
+
+11. K. Fragkiadaki S. Levine P. Felsen J. Malik "Recurrent network models for human dynamics" Proc. IEEE Int. Conf. Comput. Vision pp. 4346-4354 2015. 
+
+12. Q. Gan Q. Guo Z. Zhang K. Cho "First step toward model-free anonymous object tracking with recurrent neural networks". 
+
+13. A. Geiger P. Lenz R. Urtasun "Are we ready for autonomous driving? The KITTI vision benchmark suite" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 3354-3361 2012. 
+
+14. G. Nebehay "DSST: Discriminative scale space tracker" [online] Available: https://github.com/gnebehay/DSST. 
+
+15. K. Greff R. K. Srivastava J. Koutník B. R. Steunebrink J. Schmidhuber "LSTM: A search space odyssey" IEEE Trans. Neural Netw. Learn. Syst. vol. 28 no. 10 pp. 2222-2232 Oct. 2017. 
+
+16. S. Hare et al. "Struck: Structured output tracking with kernels" IEEE Trans. Pattern Anal. Mach. Intell. vol. 38 no. 10 pp. 2096-2109 Oct. 2016. 
+
+17. K. He X. Zhang S. Ren J. Sun "Delving deep into rectifiers: Surpassing human-level performance on imagenet classification" Proc. IEEE Int. Conf. Comput. Vision pp. 1026-1034 2015. 
+
+18. D. Held S. Thrun S. Savarese "Learning to track at 100 fps with deep regression networks" Proc. Eur. Conf. Comput. Vision pp. 749-765 2016. 
+
+19. J. F. Henriques R. Caseiro P. Martins J. Batista "High-speed tracking with kernelized correlation filters" IEEE Trans. Pattern Anal. Mach. Intell. vol. 37 no. 3 pp. 583-596 Mar. 2015. 
+
+20. Z. Hong Z. Chen C. Wang X. Mei D. Prokhorov D. Tao "Multi-store tracker (muster): A cognitive psychology inspired approach to object tracking" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 749-758 2015. 
+
+21. K. Kang et al. "T-CNN: Tubelets with convolutional neural networks for object detection from videos" IEEE Trans. Circuits Syst. Video Technol.. 
+
+22. D. Kingma J. Ba "Adam: A method for stochastic optimization". 
+
+23. M. Kristan et al. "The visual object tracking VOT2014 challenge results" Proc. Eur. Conf. Comput. Vision Workshops pp. 191-217 2014. 
+
+24. M. Kristan et al. "The visual object tracking VOT2015 challenge results" Proc. IEEE Int. Conf. Comput. Vision Workshops pp. 1-23 2015. 
+
+25. M. Kristan et al. "The visual object tracking VOT2016 challenge results" Proc. Eur. Conf. Comput. Vision Workshops pp. 777-823 2016. 
+
+26. Z. Lan M. Shridhar D. Hsu S. Zhao "Xpose: Reinventing user interaction with flying cameras" Robotics: Science and Systems 2017. 
+
+27. L. v. d. Maaten G. Hinton "Visualizing data using t-SNE" J. Mach. Learn. Res. vol. 9 pp. 2579-2605 2008. 
+
+28. M. E. Maresca A. Petrosino "Clustering local motion estimates for robust and efficient object tracking" Proc. Eur. Conf. Comput. Vision pp. 244-253 2014. 
+
+29. H. Nam B. Han "Learning multi-domain convolutional neural networks for visual tracking" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 4293-4302 2016. 
+
+30. P. Ondruska I. Posner "Deep tracking: Seeing beyond seeing using recurrent neural networks" Proc. 30th AAAI Conf. Artif. Intell. pp. 3361-3367 2016. 
+
+31. C. Premebida G. Monteiro U. Nunes P. Peixoto "A lidar and vision-based approach for pedestrian and vehicle detection and tracking" Proc. IEEE Intell. Transp. Syst. Conf. pp. 1044-1049 2007. 
+
+32. S. R. Richter V. Vineet S. Roth V. Koltun "Playing for data: Ground truth from computer games" Proc. Eur. Conf. Comput. Vision pp. 102-118 2016. 
+
+33. O. Russakovsky et al. "Imagenet large scale visual recognition challenge" Int. J. Comput. Vision vol. 115 no. 3 pp. 211-252 2015. 
+
+34. T. Schmidt R. A. Newcombe D. Fox "Dart: Dense articulated real-time tracking" Proc. Robot. Sci. Syst. 2014. 
+
+35. A. W. Smeulders D. M. Chu R. Cucchiara S. Calderara A. Dehghan M. Shah "Visual tracking: An experimental survey" IEEE Trans. Pattern Anal. Mach. Intell. vol. 36 no. 7 pp. 1442-1468 Jul. 2014. 
+
+36. A. Solis Montero J. Lang R. Laganiere "Scalable kernel correlation filter with sparse feature integration" Proc. IEEE Int. Conf. Comput. Vision Workshops pp. 24-31 2015. 
+
+37. C. Szegedy et al. "Going deeper with convolutions" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 1-9 2015. 
+
+38. O. Vinyals A. Toshev S. Bengio D. Erhan "Show and tell: A neural image caption generator" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 3156-3164 2015. 
+
+39. T. Vojir "Robust scale-adaptive mean-shift for tracking." 2017 [online] Available: https://github.com/vojirt/asms. 
+
+40. T. Vojir "Tracking with kernelized correlation filters." 2017 [online] Available: https://github.com/vojirt/kcf. 
+
+41. T. Vojir J. Noskova J. Matas "Robust scale-adaptive mean-shift for tracking" Proc. Scand. Conf. Image Anal. pp. 652-663 2013. 
+
+42. Y. Wu J. Lim M.-H. Yang "Online object tracking: A benchmark" Proc. IEEE Conf. Comput. Vision Pattern Recog. pp. 2411-2418 2013. 
+
+43. M. D. Zeiler R. Fergus "Visualizing and understanding convolutional networks" Proc. Eur. Conf. Comput. Vision pp. 818-833 2014. 
+
+44. J. Zhang S. Ma S. Sclaroff "MEEM: Robust tracking via multiple experts using entropy minimization" Proc. Eur. Conf. Comput. Vision pp. 188-203 2014. 

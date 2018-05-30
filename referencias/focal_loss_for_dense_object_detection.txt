@@ -1,0 +1,73 @@
+1. S. Bell C.L. Zitnick K. Bala R. Girshick "Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks" CVPR 2016. 
+
+2. S.R. Bulo G. Neuhold P. Kontschieder "Loss max-pooling for semantic image segmentation" CVPR 2017. 
+
+3. J. Dai Y. Li K. He J. Sun "R-FCN: Object detection via region-based fully convolutional networks" NIPS 2016. 
+
+4. N. Dalal B. Triggs "Histograms of oriented gradients for human detection" CVPR 2005. 
+
+5. P. Dollár Z. Tu P. Perona S. Belongie Integral channel features 2009. 
+
+6. D. Erhan C. Szegedy A. Toshev D. Anguelov "Scalable object detection using deep neural networks" CVPR 2014. 
+
+7. M. Everingham L. Van Gool C.K. Williams J. Winn A. Zisserman "The PASCAL Visual Object Classes (VOC) Challenge" IJCV 2010. 
+
+8. P.F. Felzenszwalb R.B. Girshick D. McAllester "Cascade object detection with deformable part models" CVPR 2010. 
+
+9. C.-Y. Fu W. Liu A. Ranga A. Tyagi A.C. Berg DSSD: Deconvolutional single shot detector 2016 [online] Available: . 
+
+10. R. Girshick "Fast R-CNN" ICCV 2015. 
+
+11. R. Girshick J. Donahue T. Darrell J. Malik "Rich feature hierarchies for accurate object detection and semantic segmentation" CVPR 2014. 
+
+12. T. Hastie R. Tibshirani J. Friedman The elements of statistical learning Berlin:Springer 2008. 
+
+13. K. He G. Gkioxari P. Dollár R. Girshick "Mask R-CNN" ICCV 2017. 
+
+14. K. He X. Zhang S. Ren J. Sun "Spatial pyramid pooling in deep convolutional networks for visual recognition" ECCV 2014. 
+
+15. K. He X. Zhang S. Ren J. Sun "Deep residual learning for image recognition" CVPR 2016. 
+
+16. J. Huang V. Rathod C. Sun M. Zhu A. Korattikara A. Fathi I. Fischer Z. Wojna Y. Song S. Guadarrama K. Murphy Speed/accuracy trade-offs for modern convolutional object detectors 2017. 
+
+17. A. Krizhevsky I. Sutskever G. Hinton "ImageNet classification with deep convolutional neural networks" NIPS 2012. 
+
+18. Y. LeCun B. Boser J.S. Denker D. Henderson R.E. Howard W. Hubbard L.D. Jackel "Backpropagation applied to handwritten zip code recognition" Neural computation 1989. 
+
+19. T.-Y. Lin P. Dollár R. Girshick K. He B. Hariharan S. Belongie "Feature pyramid networks for object detection" CVPR 2017. 
+
+20. T.-Y. Lin M. Maire S. Belongie J. Hays P. Perona D. Ramanan P. Dollár C.L. Zitnick "Microsoft COCO: Common objects in context" ECCV 2014. 
+
+21. W. Liu D. Anguelov D. Erhan C. Szegedy S. Reed "SSD: Single shot multibox detector" ECCV 2016. 
+
+22. J. Long E. Shelhamer T. Darrell "Fully convolutional networks for semantic segmentation" CVPR 2015. 
+
+23. P.O. Pinheiro R. Collobert P. Dollar "Learning to segment object candidates" NIPS 2015. 
+
+24. P.O. Pinheiro T.-Y. Lin R. Collobert P. Dollár "Learning to refine object segments" ECCV 2016. 
+
+25. J. Redmon S. Divvala R. Girshick A. Farhadi "You only look once: Unified real-time object detection" CVPR 2016. 
+
+26. J. Redmon A. Farhadi "YOLO9000: Better faster stronger" CVPR 2017. 
+
+27. S. Ren K. He R. Girshick J. Sun "Faster R-CNN: Towards real-time object detection with region proposal networks" NIPS 2015. 
+
+28. H. Rowley S. Baluja T. Kanade Human face detection in visual scenes 1995. 
+
+29. P. Sermanet D. Eigen X. Zhang M. Mathieu R. Fergus Y. LeCun "Overfeat: Integrated recognition localization and detection using convolutional networks" ICLR 2014. 
+
+30. A. Shrivastava A. Gupta R. Girshick "Training region-based object detectors with online hard example mining" CVPR 2016. 
+
+31. A. Shrivastava R. Sukthankar J. Malik A. Gupta Beyond skip connections: Top-down modulation for object detection 2016 [online] Available: . 
+
+32. K.-K. Sung T. Poggio "Learning and Example Selection for Object and Pattern Detection" MIT A.I. Memo No. 1521 1994. 
+
+33. C. Szegedy S. Ioffe V. Vanhoucke Inception-v4 inception-resnet and the impact of residual connections on learning 2016 [online] Available: . 
+
+34. J.R. Uijlings K.E. van de Sande T. Gevers A.W. Smeulders "Selective search for object recognition" IJCV 2013. 
+
+35. R. Vaillant C. Monrocq Y. LeCun "Original approach for the localisation of objects in images" IEE Proc. on Vision Image and Signal Processing 1994. 
+
+36. P. Viola M. Jones "Rapid object detection using a boosted cascade of simple features" CVPR 2001. 
+
+37. C.L. Zitnick P. Dollár "Edge boxes: Locating object proposals from edges" ECCV 2014. 

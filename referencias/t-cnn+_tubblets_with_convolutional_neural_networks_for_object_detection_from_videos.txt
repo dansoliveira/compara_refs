@@ -1,0 +1,103 @@
+1. C. Szegedy, W. Liu, Y. Jia, P. Sermanet, S. Reed, D. Anguelov, D. Erhan, V. Vanhoucke, and A. Rabinovich, “Going deeper with convolutions,”
+CVPR, 2015.
+
+2. K. Simonyan and A. Zisserman, “Very deep convolutional networks for large-scale image recognition,” Int’l Conf. Learning Representations,
+2014.
+
+3. R. Girshick, J. Donahue, T. Darrell, and J. Malik, “Rich feature hierarchies for accurate object detection and semantic segmentation,” CVPR, 2014.
+
+4. R. Girshick, “Fast r-cnn,” ICCV, 2015.
+
+5. S. Ren, K. He, R. Girshick, and J. Sun, “Faster r-cnn: Towards real-time object detection with region proposal networks,” NIPS, 2015.
+
+6. K. He, X. Zhang, S. Ren, and J. Sun, “Deep residual learning for image recognition,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 770–778.
+
+7. S. Ioffe and C. Szegedy, “Batch normalization: Accelerating deep network training by reducing internal covariate shift,” arXiv preprint arXiv:1502.03167, 2015.
+
+8. W. Ouyang, X. Wang, X. Zeng, S. Qiu, P. Luo, Y. Tian, H. Li, S. Yang, Z. Wang, C.-C. Loy et al., “DeepID-net: Deformable deep convolutional neural networks for object detection,” CVPR, 2015.
+
+9. D. Oneata, J. Revaud, J. Verbeek, and C. Schmid, “Spatio-temporal Object Detection Proposals,” ECCV, 2014.
+
+10. P. Sermanet, D. Eigen, X. Zhang, M. Mathieu, R. Fergus, and Y. LeCun, “Overfeat: Integrated recognition, localization and detection using convolutional networks,” arXiv preprint arXiv:1312.6229, 2013.
+
+11. D. Erhan, C. Szegedy, A. Toshev, and D. Anguelov, “Scalable object detection using deep neural networks,” 2014.
+
+12. J. Redmon, S. Divvala, R. Girshick, and A. Farhadi, “You Only Look Once: Unified, Real-Time Object Detection,” in CVPR, 2016.
+
+13. S. Gidaris and N. Komodakis, “Object detection via a multi-region and semantic segmentation-aware cnn model,” in ICCV, 2015.
+
+14. R. Girshick, F. Iandola, T. Darrell, and J. Malik, “Deformable part models are convolutional neural networks,” in CVPR, 2015.
+
+15. D. Mrowca, M. Rohrbach, J. Hoffman, R. Hu, K. Saenko, and T. Darrell, “Spatial semantic regularisation for large scale object detection,” in ICCV, 2015.
+
+16. S. Bell, C. L. Zitnick, K. Bala, and R. Girshick, “Inside-outside net: Detecting objects in context with skip pooling and recurrent neural networks,” arXiv preprint arXiv:1512.04143, 2015.
+
+17. J. Yan, Y. Yu, X. Zhu, Z. Lei, and S. Z. Li, “Object detection by labeling superpixels,” in CVPR, 2015.
+
+18. K. Wang, L. Lin, W. Zuo, S. Gu, and L. Zhang, “Dictionary pair classifier driven convolutional neural networks for object detection,” in CVPR, 2016, pp. 2138–2146.
+
+19. W. Liu, D. Anguelov, D. Erhan, C. Szegedy, S. Reed, C.-Y. Fu, and A. C. Berg, “Ssd: Single shot multibox detector,” in ECCV. Springer, 2016, pp. 21–37.
+
+20. W. Han, P. Khorrami, T. L. Paine, P. Ramachandran, M. Babaeizadeh, H. Shi, J. Li, S. Yan, and T. S. Huang, “Seq-nms for video object detection,” arXiv preprint arXiv:1602.08465, 2016.
+
+21. L. Galteri, L. Seidenari, M. Bertini, and A. Del Bimbo, “Spatio-temporal closed-loop object detection,” IEEE Transactions on Image Processing, 2017.
+
+22. K. Kang, H. Li, T. Xiao, W. Ouyang, J. Yan, X. Liu, and X. Wang, “Object detection in videos with tubelet proposal networks,” CVPR, 2017.
+
+23. A. Prest, C. Leistner, J. Civera, C. Schmid, and V. Ferrari, “Learning object class detectors from weakly annotated video,” CVPR, 2012.
+
+24. A. Papazoglou and V. Ferrari, “Fast Object Segmentation in Unconstrained Video,” ICCV, 2013.
+
+25. A. Joulin, K. Tang, and L. Fei-Fei, “Efficient Image and Video Colocalization with Frank-Wolfe Algorithm,” ECCV, 2014.
+
+26. S. Kwak, M. Cho, I. Laptev, J. Ponce, and C. Schmid, “Unsupervised Object Discovery and Tracking in Video Collections,” ICCV, 2015.
+
+27. O. Maxime, B. Leon, I. Laptev, and J. Sivic, “Is object localization for free? – Weakly-supervised learning with convolutional neural networks ,” in Computer Vision and Pattern Recognition, 2015.
+
+28. M. Rubinstein, A. Joulin, J. Kopf, and C. Liu, “Unsupervised joint object discovery and segmentation in internet images,” in CVPR, 2013.
+
+29. J. Deng, W. Dong, R. Socher, L.-J. Li, K. Li, and L. Fei-Fei, “Imagenet: A large-scale hierarchical image database,” CVPR, 2009.
+
+30. A. Krizhevsky, I. Sutskever, and G. E. Hinton, “Imagenet classification with deep convolutional neural networks,” NIPS, 2012.
+
+31. K. Wang, D. Zhang, Y. Li, R. Zhang, and L. Lin, “Cost-effective active learning for deep image classification,” TCSVT, 2016.
+
+32. K. Simonyan and A. Zisserman, “Two-Stream Convolutional Networks for Action Recognition in Videos,” in Conference on Neural Information Processing Systems, 2014.
+
+33. J. Long, E. Shelhamer, and T. Darrell, “Fully convolutional networks for semantic segmentation,” in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2015, pp. 3431–3440.
+
+34. H. Possegger, T. Mauthner, P. M. Roth, and H. Bischof, “Occlusion geodesics for online multi-object tracking,” CVPR, 2014.
+
+35. Y. Li, J. Zhu, and S. C. Hoi, “Reliable patch trackers: Robust visual tracking by exploiting reliable patches,” CVPR, 2015.
+
+36. Z. Hong, Z. Chen, C. Wang, X. Mei, D. Prokhorov, and D. Tao, “Multistore tracker (muster): a cognitive psychology inspired approach to object tracking,” CVPR, 2015.
+
+37. E. Maggio, F. Smerladi, and A. Cavallaro, “Adaptive multifeature tracking in a particle filtering framework,” TCSVT, 2007.
+
+38. E. Maggio, M. Taj, and A. Cavallaro, “Efficient multitarget visual tracking using random finite sets,” TCSVT, 2008.
+
+39. A. Cavallaro, O. Steiger, and T. Ebrahimi, “Tracking video objects in cluttered background,” TCSVT, 2005.
+
+40. J. Yang, D. Schonfeld, and M. Mohamed, “Robust video stabilization based on particle filter tracking of projected camera motion,” TCSVT, 2009.
+
+41. C. Li, L. Lin, W. Zuo, and J. Tang, “Learning patch-based dynamic graph for visual tracking.” in AAAI, 2017, pp. 4126–4132.
+
+42. L. Wang, W. Ouyang, X. Wang, and H. Lu, “Visual tracking with fully convolutional networks,” ICCV, 2015.
+
+43. H. Nam and B. Han, “Learning multi-domain convolutional neural networks for visual tracking,” arXiv:1510.07945, 2015.
+
+44. B. Yang, J. Yan, Z. Lei, and S. Z. Li, “Craft objects from images,” CVPR, 2016.
+
+45. J. R. Uijlings, K. E. van de Sande, T. Gevers, and A. W. Smeulders, “Selective search for object recognition,” IJCV, 2013.
+
+46. C. L. Zitnick and P. Dollar, “Edge Boxes: Locating Object Proposals from Edges,” ECCV, 2014.
+
+47. X. Zeng, W. Ouyang, and X. Wang, “Window-object relationship guided representation learning for generic object detections,” arXiv preprint arXiv:1512.02736, 2015.
+
+48. X. Zeng, W. Ouyang, B. Yang, J. Yan, and X. Wang, “Gated bidirectional cnn for object detection,” in ECCV. Springer, 2016, pp. 354–369.
+
+49. C. Szegedy, S. Ioffe, V. Vanhoucke, and A. Alemi, “Inception-v4, inception-resnet and the impact of residual connections on learning,” arXiv preprint arXiv:1602.07261, 2016.
+
+50. T. Deselaers, B. Alexe, and V. Ferrari, “Localizing Objects While Learning Their Appearance,” ECCV, 2010.
+
+51. K. Kang, W. Ouyang, H. Li, and X. Wang, “Object Detection from Video Tubelets with Convolutional Neural Networks,” in Computer Vision and Pattern Recognition, 2016.

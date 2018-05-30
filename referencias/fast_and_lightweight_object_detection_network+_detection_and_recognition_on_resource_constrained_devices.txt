@@ -1,0 +1,113 @@
+1. I. Endres D. Hoiem "Category independent object proposals" Computer Vision—ECCV pp. 575-588 2010. 
+
+2. B. Alexe T. Deselaers V. Ferrari "What is an object?" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 73-80 Jun. 2010. 
+
+3. H. Harzallah F. Jurie C. Schmid "Combining efficient object localization and image classification" Proc. IEEE 12th Int. Conf. Comput. Vis. pp. 237-244 Sep./Oct. 2009. 
+
+4. K. E. A. van de Sande J. R. R. Uijlings T. Gevers A. W. M. Smeulders "Segmentation as selective search for object recognition" Proc. IEEE Int. Conf. Comput. Vis. (ICCV) pp. 1879-1886 Nov. 2011. 
+
+5. J. Hosang R. Benenson B. Schiele How good are detection proposals really? 2014 [online] Available: https://arxiv.org/abs/1406.6962. 
+
+6. S. Maji A. C. Berg J. Malik "Classification using intersection kernel support vector machines is efficient" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 1-8 Jun. 2008. 
+
+7. I. Laptev "Improvements of object detection using boosted histograms" Proc. BMVC vol. 3 pp. 949-958. 
+
+8. C. L. Zitnick P. Dollár "Edge boxes: Locating object proposals from edges" Proc. Eur. Conf. Comput. Vis. pp. 391-405 2014. 
+
+9. X. Wang M. Yang S. Zhu Y. Lin "Regionlets for generic object detection" IEEE Trans. Pattern Anal. Mach. Intell. vol. 37 pp. 2071-2084 Oct. 2015. 
+
+10. S. Ren K. He R. Girshick J. Sun "Faster R-CNN: Towards real-time object detection with region proposal networks" Proc. Adv. Neural Inf. Process. Syst. pp. 91-99 2015. 
+
+11. S. Scott S. Matwin "Text classification using WordNet hypernyms" Proc. Conf. Use WordNet Natural Lang. Process. Syst. pp. 38-44 1998. 
+
+12. D. G. Lowe "Object recognition from local scale-invariant features" Proc. IEEE Int. Conf. Comput. Vis. vol. 2 pp. 1150-1157 Sep. 1999. 
+
+13. D. Anguita A. Boni S. Ridella "Learning algorithm for nonlinear support vector machines suited for digital VLSI" Electron. Lett. vol. 35 no. 16 pp. 1349-1350 Aug. 1999. 
+
+14. S. Karnouskos A. W. Colombo "Architecting the next generation of service-based SCADA/DCS system of systems" Proc. 37th Annu. Conf. IEEE Ind. Electron. Soc. (IECON) pp. 359-364 Nov. 2011. 
+
+15. S. Che M. Boyer J. Meng D. Tarjan J. W. Sheaffer K. Skadron "A performance study of general-purpose applications on graphics processors using cuda" J. Parallel Distrib. Comput. vol. 68 no. 10 pp. 1370-1380 2008. 
+
+16. S. Chetlur et al. cuDNN: Efficient primitives for deep learning 2014 [online] Available: https://arxiv.org/abs/1410.0759. 
+
+17. J. Deng W. Dong R. Socher L.-J. Li K. Li L. Fei-Fei "ImageNet: A large-scale hierarchical image database" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 248-255 Jun. 2009. 
+
+18. R. Bekkerman M. Bilenko J. Langford Scaling up Machine Learning: Parallel and Distributed Approaches Cambridge U.K:Cambridge Univ. Press 2011. 
+
+19. Y. Lecun L. Bottou Y. Bengio P. Haffner Gradient-Based Learning Applied to Document Recognition Piscataway NJ USA:IEEE Press pp. 306-351 2001. 
+
+20. A. S. Razavian H. Azizpour J. Sullivan S. Carlsson "CNN features off-the-shelf: An astounding baseline for recognition" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. Workshops pp. 806-813 Jun. 2014. 
+
+21. D. E. Williams G. E. Hinton R. J. Williams "Learning representations by back-propagating errors" Nature vol. 323 no. 6088 pp. 533-538 1986. 
+
+22. K. Fukushima "A neural network model for selective attention in visual pattern recognition" Biol. Cybern. vol. 55 no. 1 pp. 5-15 1986. 
+
+23. X.-W. Chen X. Lin "Big data deep learning: Challenges and perspectives" IEEE Access vol. 2 pp. 514-525 2014. 
+
+24. M. Abadi et al. TensorFlow: Large-scale machine learning on heterogeneous distributed systems 2016 [online] Available: https://arxiv.org/abs/1603.04467. 
+
+25. J. Bergstra et al. "Theano: A CPU and GPU math compiler in python" Proc. 9th Python Sci. Conf. pp. 1-7 2010. 
+
+26. R. Collobert K. Kavukcuoglu C. Farabet "Torch7: A MATLAB-like environment for machine learning" Proc. BigLearn NIPS Workshop 2011. 
+
+27. P. F. Felzenszwalb R. B. Girshick D. McAllester "Cascade object detection with deformable part models" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 2241-2248 Jun. 2010. 
+
+28. F. E. H. Tay L. Cao "Application of support vector machines in financial time series forecasting" Omega vol. 29 no. 4 pp. 309-317 Aug. 2001. 
+
+29. A. Krizhevsky I. Sutskever G. E. Hinton "ImageNet classification with deep convolutional neural networks" Proc. Adv. Neural Inf. Process. Syst. pp. 1097-1105 2012. 
+
+30. B. Sapp A. Saxena A. Y. Ng "A fast data collection and augmentation procedure for object recognition" Proc. AAAI pp. 1402-1408 2008. 
+
+31. I. Masi A. T. Tran J. T. Leksut T. Hassner G. Medioni Do we really need to collect millions of faces for effective face recognition? 2016 [online] Available: https://arxiv.org/abs/1603.07057. 
+
+32. Z. Zhang J. Warrell P. H. S. Torr "Proposal generation for object detection using cascaded ranking SVMs" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. (CVPR) pp. 1497-1504 Jun. 2011. 
+
+33. J. Leng T. Li G. Bai Q. Dong H. Dong "Cube-CNN-SVM: A novel hyperspectral image classification method" Proc. IEEE 28th Int. Conf. Tools Artif. Intell. (ICTAI) pp. 1027-1034 Nov. 2016. 
+
+34. S. Albers "Energy-efficient algorithms" Commun. ACM vol. 53 no. 5 pp. 86-96 2010. 
+
+35. S. C. Hoffman D. Thiagarajan "Continuity report: Revisiting grocery recognition using tensorflow". 
+
+36. D. G. García M. Paluri S. Wu Under the Hood: Building Accessibility Tools for the Visually Impaired on Facebook [online] Available: https://code.facebook.com/posts/457605107772545/under-the-hood-building-accessibility-tools-for-the-visually-impaired-on-facebook/. 
+
+37. L. F. D’Haro R. E. Banchs C. K. Leong L. G. M. Daven N. T. Yuan "ALEXIS: Automatic labelling and metadata extraction of information for Singapore’s images". 
+
+38. R. Girshick J. Donahue T. Darrell J. Malik "Rich feature hierarchies for accurate object detection and semantic segmentation" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 580-587 Jun. 2014. 
+
+39. R. Qian Q. Liu Y. Yue F. Coenen B. Zhang "Road surface traffic sign detection with hybrid region proposal and fast R-CNN" Proc. 12th Int. Conf. Natural Comput. Fuzzy Syst. Knowl. Discovery (ICNC-FSKD) pp. 555-559 2016. 
+
+40. M. Merler C. Galleguillos S. Belongie " Recognizing groceries in situ using in vitro training data " Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 1-8 Jun. 2007. 
+
+41. B. Alexe T. Deselaers V. Ferrari "Measuring the objectness of image windows" IEEE Trans. Pattern Anal. Mach. Intell. vol. 34 no. 11 pp. 2189-2202 Nov. 2012. 
+
+42. E. K. Cheang T. K. Cheang Y. H. Tay Using convolutional neural networks to count palm trees in satellite images 2017 [online] Available: https://arxiv.org/abs/1701.06462. 
+
+43. R. Girshick "Fast R-CNN" Proc. IEEE Int. Conf. Comput. Vis. pp. 1440-1448 Dec. 2015. 
+
+44. A. Karpathy G. Toderici S. Shetty T. Leung R. Sukthankar L. Fei-Fei "Large-scale video classification with convolutional neural networks" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 1725-1732 Jun. 2014. 
+
+45. H. M. Bui M. Lech E. Cheng K. Neville I. S. Burnett "Object recognition using deep convolutional features transformed by a recursive network structure" IEEE Access vol. 4 pp. 10059-10066 2016. 
+
+46. B. C. Russell A. Torralba K. P. Murphy W. T. Freeman "LabelMe: A database and Web-based tool for image annotation" Int. J. Comput. Vis. vol. 77 no. 1 pp. 157-173 2008. 
+
+47. G. E. Hinton N. Srivastava A. Krizhevsky I. Sutskever R. R. Salakhutdinov Improving neural networks by preventing co-adaptation of feature detectors 2012 [online] Available: https://arxiv.org/abs/1207.0580. 
+
+48. N. Srivastava G. Hinton A. Krizhevsky I. Sutskever R. Salakhutdinov "Dropout: A simple way to prevent neural networks from overfitting" J. Mach. Learn. Res. vol. 15 no. 1 pp. 1929-1958 2014. 
+
+49. M. Oquab L. Bottou I. Laptev J. Sivic "Learning and transferring mid-level image representations using convolutional neural networks" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 1717-1724 Jun. 2014. 
+
+50. Dogs vs. Cats Jun. 2017 [online] Available: https://www.kaggle.com/c/dogs-vs-cats/data. 
+
+51. Y. Bengio "Practical recommendations for gradient-based training of deep architectures" CoRR vol. abs/1206.5533 2012 [online] Available: http://arxiv.org/abs/1206.5533. 
+
+52. S. Ioffe C. Szegedy Batch normalization: Accelerating deep network training by reducing internal covariate shift 2015 [online] Available: https://arxiv.org/abs/1502.03167. 
+
+53. P. Krähenbühl V. Koltun "Geodesic object proposals" Proc. Eur. Conf. Comput. Vis. pp. 725-739 2014. 
+
+54. S. Gupta P. Arbeláez J. Malik "Perceptual organization and recognition of indoor scenes from RGB-D images" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 564-571 Jun. 2013. 
+
+55. H. Kagaya K. Aizawa M. Ogawa "Food detection and recognition using convolutional neural network" Proc. 22nd ACM Int. Conf. Multimedia pp. 1085-1088 2014. 
+
+56. C. C. Alves G. B. Monteiro S. Rabello M. E. Gasparetto K. M. de Carvalho "Assistive technology applied to education of students with visual impairment" Revista Panamericana Salud Pública vol. 26 no. 2 pp. 148-152 2009. 
+
+57. M.-M. Cheng Z. Zhang W.-Y. Lin P. Torr "BING: Binarized normed gradients for objectness estimation at 300 fps" Proc. IEEE Conf. Comput. Vis. Pattern Recognit. pp. 3286-3293 Jun. 2014. 
